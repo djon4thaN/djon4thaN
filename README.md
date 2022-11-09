@@ -11,7 +11,8 @@
 📚 Currently I am giving continuity to HTML, entering the CSS content where we will see next contents.
 <br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=djon4thaN&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=djon4thaN&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 djon4thaN/djon4thaN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
