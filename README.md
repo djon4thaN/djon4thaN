@@ -1,4 +1,4 @@
-👋 Olá, me chamo Djonathan.
+👋 Olá!
 <br>
 ✨ Frequento a acadêmia pelas manhãs, gosto de sair ou jogar com os amigos, incluindo também a parte de codar por diversão e prática quando fora de aula.
 <br>
