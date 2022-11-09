@@ -1,15 +1,19 @@
-👋 Olá!
+👋 Hello, there!
 <br>
-✨ Frequento a acadêmia pelas manhãs, gosto de sair ou jogar com os amigos, incluindo também a parte de codar por diversão e prática quando fora de aula.
+✨ I go to the gym in the mornings, enjoy going out or playing with friends, also including the coding part for fun and practice when out of class.
 <br>
-🎓 Sou formado no ensino médio, atualmente em processo de formação na Growdev, realizando o curso Developer Web Full Stack.
+🎓 I am a high school graduate, currently in the process of graduating from Growdev, taking the Developer Web Full Stack course.
 <br>
-😁 Ainda não possuo experiência profissional, entretando, estou em rumo a isto.
+😁 I don't have professional experience yet, however, I'm on my way to it.
 <br>
-👨‍💻 HTML e CSS até o momento são minhas linguagens favoritas.
+👨‍💻 HTML and CSS so far are my favorite languages.
 <br>
-📚 Atualmente estou dando continuidade ao HTML, entrando no conteúdo de CSS onde veremos próximos conteúdos.
+📚 Currently I am giving continuity to HTML, entering the CSS content where we will see next contents.
 <br>
+
+[![card](https://github-readme-stats.vercel.app/api?username=djon4thaN&theme=Dracula)](https://github.com/anuraghazra/github-readme-stats) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=djon4thaN&hide=html&layout=compact&theme=Dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 djon4thaN/djon4thaN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
