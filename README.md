@@ -10,6 +10,8 @@
 <br>
 📚 Atualmente estou dando continuidade ao HTML, entrando no conteúdo de CSS onde veremos próximos conteúdos.
 <br>
+![computer-illustration](https://user-images.githubusercontent.com/117409666/200954339-8ce26b3c-ce91-4146-9a37-3c71352618b5.png)
+
 
 
 <!---
