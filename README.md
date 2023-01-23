@@ -1,6 +1,6 @@
 <h1>Olá, seja bem-vindo!</h1>
 <br>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <br>
 <br>
 <br>
