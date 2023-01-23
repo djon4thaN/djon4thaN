@@ -2,6 +2,11 @@
 <br>
 Estou em processo de formação, estudando programação na empresa GrowDev!
 <hr>
+<div>
+<a href="https://github.com/djon4thaN">
+<img height="180cm" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)"/>
+</div>
+              
 <br>
 <br>
 <br>
