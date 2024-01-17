@@ -1,6 +1,5 @@
 <h1>Olá, seja bem-vindo!</h1>
 <br>
-Estou em processo de formação, estudando programação na empresa GrowDev!
 <hr>
 <div>
 <a href="https://github.com/djon4thaN">
