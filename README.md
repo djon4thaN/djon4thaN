@@ -1,10 +1,4 @@
-<h1>Olá, seja bem-vindo!</h1>
-<br>
-<hr>
-<div>
-<a href="https://github.com/djon4thaN">
-<img height="180cm" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)"/>
-</div>
+<h1>Welcome!</h1>
               
 <br>
 <br>
