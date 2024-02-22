@@ -1,8 +1,11 @@
-<h1>Welcome!</h1>
+<h1>Sejam bem-vindos, Developers!</h1>
               
-<br>
-<br>
-<br>
+Me chamo Djonathan!
+Costumo programar, jogar e estudar.
+Realizo o curso Web Full Stack Developer na Growdev, em processo de formação.
+Já tive experiência na área da saúde, porém, hoje em dia estou na área do T.I, me aprimorando cada vez mais com estudos e práticas.
+Possuo como linguagem favorita JavaScript e TypeScript.
+Atualmente estou estudando sobre html e um pouco de css.
 
 </div>
 
