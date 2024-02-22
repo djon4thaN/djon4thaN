@@ -3,12 +3,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Me chamo Djonathan!<br>
-  Costumo programar, jogar e estudar.<br>
-  Realizo o curso Web Full Stack Developer na Growdev, em processo de formação.<br>
-  Já tive experiência na área da saúde, porém, hoje em dia estou na área do T.I, me aprimorando cada vez mais com estudos e práticas.<br>
-  Possuo como linguagem favorita JavaScript e TypeScript.<br>
-  Atualmente estou estudando sobre html e um pouco de css.<br>
+  My name is Djonathan!
+  I usually program, play and study.
+  I'm currently studying Web Full Stack Developer at Growdev.
+  I've had experience in the health sector, but nowadays I'm in the IT field, improving myself more and more with studies and practices.
+  My favorite languages are JavaScript and TypeScript.
+  I'm currently studying html and a bit of css.
  </p>
  
 <br>
