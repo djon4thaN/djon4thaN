@@ -1,5 +1,7 @@
 <h1>Sejam bem-vindos, developers!</h1>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <p align="left">
   Me chamo Djonathan!<br>
   Costumo programar, jogar e estudar.<br>
@@ -8,8 +10,6 @@
   Possuo como linguagem favorita JavaScript e TypeScript.<br>
   Atualmente estou estudando sobre html e um pouco de css.<br>
  </p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;
