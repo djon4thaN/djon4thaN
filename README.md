@@ -13,7 +13,7 @@
  
 <br>
 
-<h2>Linguagens:</h2>
+<h2>Languages:</h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;
