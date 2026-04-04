@@ -26,7 +26,7 @@ I’m constantly learning and building projects to strengthen my skills in Java,
    <img src="/assets/img2.png" width="15"/>   <em><b> Focused on Java, C#, and Back-End Development </b></em> <br/>
    <img src="/assets/img3.png" width="15"/>   <em><b> Systems Analysis and Development </b></em><br/>
    <img src="/assets/img1.png" width="15"/>   <em><b> Interested in Cybersecurity </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Always improving  </b></em><br/>
+   <img src="/assets/img4.png" width="15"/>   <em><b> Always improving  </b></em><br/>
 </p>
 
 <br/>
