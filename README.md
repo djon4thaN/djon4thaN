@@ -11,7 +11,7 @@
 
 <h2 align="center"> <img src="/assets/title1.png" width="25"/> <em>About  me </em></h2>
 
-<img src="https://imgur.com/gallery/vortice-7e6O8qg" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://i.imgur.com/SypPVTK.jpeg" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
