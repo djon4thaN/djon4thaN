@@ -1,7 +1,7 @@
 <img src = "githubanner.JPG"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inng-benjamin-solano](https://www.linkedin.com/in/isabella-peroli-445950357/" target="_blank">
+  <a href="https://www.linkedin.com/in/isabella-peroli-445950357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -11,7 +11,7 @@
 
 <h2 align="center"> <img src="/assets/title1.png" width="25"/> <em>About  me </em></h2>
 
-<img src="https://imgur.com/a/7e6O8qg" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://imgur.com/gallery/vortice-7e6O8qg" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
