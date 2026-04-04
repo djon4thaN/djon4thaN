@@ -15,7 +15,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Djonathan Machado </b></em>, an ADS student passionate about technology.
+  Hello There! <em><b> I'm Djonathan Machado</b></em>, an ADS student passionate about technology.
 I’m constantly learning and building projects to strengthen my skills in Java, C#, front-end development, and cybersecurity.
 </p>
 
