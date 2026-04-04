@@ -7,7 +7,6 @@
 </p>
 
 
-<br>
 
 <h2 align="center"> <img src="/assets/title1.png" width="25"/> <em>About  me </em></h2>
 
@@ -15,7 +14,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Djonathan Machado</b></em>, an ADS student passionate about technology.
+  Hello there! <em><b> I'm Djonathan Machado</b></em>, an ADS student passionate about technology.
 I’m constantly learning and building projects to strengthen my skills in Java, C#, front-end development, and cybersecurity.
 </p>
 
