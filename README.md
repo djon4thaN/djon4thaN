@@ -1,7 +1,7 @@
 <img src = "gitbanner.jpg"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/isabella-peroli-445950357/" target="_blank">
+  <a href="https://www.linkedin.com/in/djonathan-machado-b81047401/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
